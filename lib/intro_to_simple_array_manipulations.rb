@@ -34,7 +34,7 @@ def using_flatten(instruments)
   using_flatten = instruments.flatten
 end
 
-def using_delete_at(famous_robots, 2)
+def using_delete_at(famous_robots)
   using_delete_at = famous_robots.delete(2)
 
 end
