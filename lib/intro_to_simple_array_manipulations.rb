@@ -27,6 +27,6 @@ def using_concat (my_favorite_things, more_favs)
 end
 
 def using_uniq(haircuts)
-  using_uniq = haircuts.using_uniq
+  using_uniq = haircuts.uniq
 
 end
