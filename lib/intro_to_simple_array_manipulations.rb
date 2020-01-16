@@ -45,5 +45,5 @@ end
 
 def using_delete_at(famous_robots,deleted_robot)
   using_delete_at = famous_robots.delete(2)
-  using_delete_at
+  famous_robots
 end
