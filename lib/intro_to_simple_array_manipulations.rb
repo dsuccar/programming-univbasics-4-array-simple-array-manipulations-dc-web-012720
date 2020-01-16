@@ -12,4 +12,5 @@ end
 
 def pop_with_args(dog_breeds)
   pop_with_args = dog_breeds.pop
+  pop_with_args = dog_breeds.pop[1]
 end
