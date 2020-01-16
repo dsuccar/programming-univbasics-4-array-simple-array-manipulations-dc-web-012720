@@ -13,3 +13,7 @@ end
 def pop_with_args(dog_breeds)
   pop_with_args = dog_breeds.pop(2)
 end
+
+def using_shift(@my_favorite_cities)
+  using_shift = my_favorite_cities.shift
+end
