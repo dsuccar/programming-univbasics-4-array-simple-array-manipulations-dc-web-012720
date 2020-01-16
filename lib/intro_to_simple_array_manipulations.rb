@@ -7,7 +7,9 @@ def using_unshift(bouroughs_in_nyc,new_neighborhood)
 end
 
 def using_pop(continents)
-
   using_pop = continents.pop
+end
 
+def pop_with_args(dog_breeds)
+  pop_with_args = dog_breeds.pop[-2]
 end
